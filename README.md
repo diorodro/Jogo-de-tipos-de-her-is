@@ -1,0 +1,2 @@
+- Tenha Node.js instalado em sua máquina
+- Execute `node index.js` para rodar o código.
